@@ -41,7 +41,8 @@ class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
 ```
 ## OUTPUT
-![Alt text](web2.png)
+![image](https://github.com/Dhiyanesh24/ORM/assets/118362288/7a66bd60-01d1-4d68-aa07-c624f6f3baf8)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
